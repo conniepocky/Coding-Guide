@@ -6,4 +6,4 @@ click the plus and do new repository
 
 then fill out the form :))
 
-After that it should have a guide on the website of commands to run in the terminal!
+After that it should have a guide on the website of commands to run in the terminal! But make sure when you do them to do git push origin master without the -u! :)
