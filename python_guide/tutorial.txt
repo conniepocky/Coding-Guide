@@ -1,0 +1,11 @@
+ Hi Mummy!
+
+ I made this tutorial for you so you can follow along and learn to code :)
+
+ OKay so first open Atom (or Vim) and type print("hi") then save the file as first.py 
+ to run your .py file type in your terminal
+ python first.py
+ That should run hi in the terminal!!!! If your code doesn't work try checking mine :)
+
+
+

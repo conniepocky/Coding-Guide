@@ -1,0 +1,9 @@
+How to create a repository!!!
+
+Go to github.com
+
+click the plus and do new repository
+
+then fill out the form :))
+
+After that it should have a guide on the website of commands to run in the terminal!
